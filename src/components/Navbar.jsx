@@ -4,7 +4,6 @@ import {
   FaInstagram
 } from 'react-icons/fa';
 
-import { BsChatSquareDots } from 'react-icons/bs';
 import { TiThMenu } from 'react-icons/ti';
 import { useState } from 'react';
 
@@ -23,10 +22,10 @@ const Navbar = () => {
           <a href="#gallery">Gallery</a>
         </li>
         <li>
-          <a href="#booking">Deals</a>
+          <a href="#booking">Booking</a>
         </li>
         <li>
-          <a href="#contacts">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
       <div className='flex justify-between'>
@@ -47,10 +46,10 @@ const Navbar = () => {
           <a href="#gallery">Gallery</a>
         </li>
         <li className='text-2xl py-8'>
-          <a href="#deals">Deals</a>
+          <a href="#booking">Booking</a>
         </li>
         <li className='text-2xl py-8'>
-          <a href="#contacts">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
         </ul>
       </div>

@@ -16,7 +16,7 @@ const validationSchema = Yup.object({
 const Booking = () => {
   
   return (
-    <div id='#booking' className='max-w-[1140px] m-auto w-full p-4'>
+    <div id='booking' className='max-w-[1140px] m-auto w-full p-4'>
       <Formik
         initialValues={{ destination: '', checkIn: '', checkOut: '' }}
         validationSchema={validationSchema}
@@ -80,7 +80,6 @@ const Booking = () => {
               </div>
             </div>
             <div className='flex flex-col my-2 p-2 w-full'>
-              <label htmlFor="search">Search</label>
               <button className='w-full px-4 py-2 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] ' type="submit">Prices and deals</button>
             </div>
           </Form>
