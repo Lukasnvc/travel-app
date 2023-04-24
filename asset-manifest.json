@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travel-app/static/css/main.6104543a.css",
+    "main.js": "/travel-app/static/js/main.483c96e4.js",
+    "static/media/beach.jpg": "/travel-app/static/media/beach.542bf8f4a6554c08b7cb.jpg",
+    "static/media/excursion.jpg": "/travel-app/static/media/excursion.db937548dfc723b9b47d.jpg",
+    "static/media/cruise.jpg": "/travel-app/static/media/cruise.d2d91eb966bf7087ae9d.jpg",
+    "static/media/resort.jpg": "/travel-app/static/media/resort.d9e7acd0bf153ef90caf.jpg",
+    "static/media/resort2.jpg": "/travel-app/static/media/resort2.ecdbed7e31573e6e7498.jpg",
+    "static/media/resort3.jpg": "/travel-app/static/media/resort3.07c04dac6f7ec36a40cc.jpg",
+    "static/media/resort5.jpg": "/travel-app/static/media/resort5.6ca19c13a54c6093714d.jpg",
+    "static/media/resort1.jpg": "/travel-app/static/media/resort1.3a155750e9fca4a276cf.jpg",
+    "static/media/contact.jpg": "/travel-app/static/media/contact.f4ed2d35c24267644dbb.jpg",
+    "static/media/resort4.jpg": "/travel-app/static/media/resort4.0bc19cfc835481f4f9b2.jpg",
+    "index.html": "/travel-app/index.html",
+    "main.6104543a.css.map": "/travel-app/static/css/main.6104543a.css.map",
+    "main.483c96e4.js.map": "/travel-app/static/js/main.483c96e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6104543a.css",
+    "static/js/main.483c96e4.js"
+  ]
+}
